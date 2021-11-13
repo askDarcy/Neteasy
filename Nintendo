@@ -1,13 +1,6 @@
-# > easyjapanese
-DOMAIN-SUFFIX,easyjapanese.net
-DOMAIN-SUFFIX,pikasmart.com
-
 # > Nintendo
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,mariokarttour.com
 DOMAIN,download-cdn-mariokarttour.akamaized.net
 DOMAIN-SUFFIX,public-content-cdn-mariokarttour.akamaized.net
-
-# > Anrun机场
-DOMAIN,console.anrun.online
