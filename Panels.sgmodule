@@ -38,4 +38,4 @@ DisneyChecker = type=cron,cronexp=35 4 * * *,wake-system=1,timeout=3600,script-p
 #详情请阅读：https://github.com/fishingworld/something/blob/main/NetflixSelect/README.md
 NetflixChecker = type=cron,cronexp=5 4 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/fishingworld/something/main/NetflixSelect/nf_autocheck.js ,script-update-interval=0,control-api=1
 
-Youtube_premium_check = type=generic, script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js?version=1633090827446, argument=title=
+Youtube_premium_check = type=generic, script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js?version=1633090827446, argument=title=Proxy
