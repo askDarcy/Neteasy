@@ -2,7 +2,7 @@
 #!desc=自定义Kindel字体
 
 [URL Rewrite]
-^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://example.com/STSongSC.ttf 302
+^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://github.com/askDarcy/Neteasy/blob/master/STSongSC.ttf.ttf 302
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STHeitiSC.ttf.+
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STYuanMedium-2018-02-16.ttf.+
